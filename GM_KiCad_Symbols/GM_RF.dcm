@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIM7000X
+D eMTC/NB-IoT/EDGE Module with GPS
+K SIM7000, 4G/LTE, GPS
+F http://www.simcom.com/product/SIM7000G.html
+$ENDCMP
+#
+#End Doc Library
