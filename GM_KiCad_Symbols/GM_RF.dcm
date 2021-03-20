@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SI4010-C2-GT
+D RF Microcontrollers - MCU SoC RF transmitter with 8051
+F https://www.silabs.com/documents/public/data-sheets/Si4010.pdf
+$ENDCMP
+#
 $CMP SIM7000X
 D eMTC/NB-IoT/EDGE Module with GPS
 K SIM7000, 4G/LTE, GPS
