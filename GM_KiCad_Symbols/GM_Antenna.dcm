@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Antenna
+D Antenna
+K antenna
+F ~
+$ENDCMP
+#
+$CMP SR4G008
+D GNSS Antenna
+K Antenna, GNSS, GPS
+F https://www.mouser.com/datasheet/2/23/Sinica-GNSS-SR4G008-PS-1.1-838507.pdf
+$ENDCMP
+#
+$CMP SR4G013
+D LTE Antenna
+K LTE, Antenna, 4G
+F https://www.mouser.com/datasheet/2/23/Beltii-SR4G013-PS-1.0-1003555.pdf
+$ENDCMP
+#
+#End Doc Library
