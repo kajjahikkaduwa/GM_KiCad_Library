@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ANT-LTE-CER-T
+D 700MHz, 850MHz, 900MHz, 1.7GHz, 1.8GHz, 1.9GHz, 2.1GHz, 2.4GHz, 2.6GHz, 2.7GHz CAT-M1, Cellular, LTE, NB-IOT, 3G, 4G Chip RF Antenna 698MHz ~ 960MHz, 1.71GHz ~ 2.17GHz, 2.3GHz ~ 2.4GHz, 2.5GHz ~ 2.7GHz 4dBi Solder Surface Mount
+K 4G, LTE, Antenna
+F https://linxtechnologies.com/wp/wp-content/uploads/ant-lte-cer.pdf
+$ENDCMP
+#
 $CMP Antenna
 D Antenna
 K antenna
