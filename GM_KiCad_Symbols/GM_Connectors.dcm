@@ -24,4 +24,8 @@ K SIM card UICC
 F  https://gct.co/files/drawings/sim8060.pdf
 $ENDCMP
 #
+$CMP USB4055-30-A
+F https://gct.co/files/drawings/usb4055.pdf
+$ENDCMP
+#
 #End Doc Library
