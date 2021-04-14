@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ABLS-8.000MHZ-B-4-T2
+D Storag e Temperatur e - 55C to + 125 C
+F https://4donline.ihs.com/images/VipMasterIC/IC/ABRC/ABRCS03441/ABRCS03441-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
 $CMP ABM10-166-12.000MHz-T3
 D ABRACON - ABM10-166-12.000MHZ-T3 - CRYSTAL, 12MHZ, 8PF, 2.5MM X 2MM
 F https://abracon.com/Resonators/ABM10-166-12.000MHz.pdf
