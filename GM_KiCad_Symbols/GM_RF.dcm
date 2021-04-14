@@ -5,6 +5,11 @@ D RF Microcontrollers - MCU SoC RF transmitter with 8051
 F https://www.silabs.com/documents/public/data-sheets/Si4010.pdf
 $ENDCMP
 #
+$CMP SI4355-B1A-FMR
+D EZRadio® RF Receiver FSK, GFSK, OOK 283MHz ~ 350MHz, 425MHz ~ 525MHz, 850MHz ~ 960MHz -116dBm 500kbps PCB, Surface Mount 20-QFN (3x3)
+F https://www.silabs.com/documents/public/data-sheets/Si4355.pdf
+$ENDCMP
+#
 $CMP SIM7000X
 D eMTC/NB-IoT/EDGE Module with GPS
 K SIM7000, 4G/LTE, GPS
