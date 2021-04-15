@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP UG-2832TSWGG01
+D OLED 1.04 inch (128 x 32) Pixel Parallel/SPI/I²C Monochrome White Passive 
+F https://datasheet.octopart.com/UG-2832TSWGG01-WiseChip-datasheet-22952796.pdf
+$ENDCMP
+#
 #End Doc Library
