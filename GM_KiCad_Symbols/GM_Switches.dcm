@@ -5,4 +5,9 @@ D TE CONNECTIVITY - 1825232-1 - SLIDE SWITCH, SPDT, 0.2A, 30VDC, SOLDER
 F https://componentsearchengine.com/Datasheets/1/1825232-1.pdf
 $ENDCMP
 #
+$CMP PTS645VH58-2_LFS
+D SWITCH TACTILE SPST-NO 0.05A 12V
+F http://www.mouser.com/datasheet/2/60/pts645-965362.pdf
+$ENDCMP
+#
 #End Doc Library
