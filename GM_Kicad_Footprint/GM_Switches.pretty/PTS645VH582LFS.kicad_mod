@@ -1,10 +1,10 @@
-(module PTS645VH582LFS (layer F.Cu) (tedit 608B00FC)
+(module PTS645VH582LFS (layer F.Cu) (tedit 609ADE08)
   (descr "PTS645VH58-2 LFS-1")
   (tags Switch)
   (fp_text reference S** (at 2.112 -0.15) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value PTS645VH582LFS (at 2.112 -0.15) (layer F.SilkS) hide
+  (fp_text value PTS645VH582LFS (at 2.112 -0.15) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -2.4 0) (end -2.4 0) (layer F.SilkS) (width 0.5))
