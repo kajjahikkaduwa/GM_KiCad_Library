@@ -5,4 +5,10 @@ D Real Time Clock Serial Maxim DS3231S#, Real Time Clock Serial-I2C, 16-Pin SOIC
 F https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
 $ENDCMP
 #
+$CMP SI5397
+D Dual/Quad DSPLL™ Any-Frequency, Any-Output Jitter Attenuators
+K si5397 clock 
+F https://www.silabs.com/documents/public/data-sheets/si5397-96-a-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
