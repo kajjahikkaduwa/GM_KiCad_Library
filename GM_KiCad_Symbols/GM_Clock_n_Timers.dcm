@@ -7,7 +7,7 @@ $ENDCMP
 #
 $CMP SI5397
 D Dual/Quad DSPLL™ Any-Frequency, Any-Output Jitter Attenuators
-K si5397 clock 
+K si5397 clock
 F https://www.silabs.com/documents/public/data-sheets/si5397-96-a-datasheet.pdf
 $ENDCMP
 #
