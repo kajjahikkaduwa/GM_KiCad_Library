@@ -5,4 +5,9 @@ D Processors - Application Specialized XA7Z020-1CLG400Q
 F http://www.xilinx.com/support/documentation/data_sheets/ds188-XA-Zynq-7000-Overview.pdf
 $ENDCMP
 #
+$CMP XC7Z020-2CLG484I
+D Zynq-7000 All Programmable SoC
+F https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf
+$ENDCMP
+#
 #End Doc Library
