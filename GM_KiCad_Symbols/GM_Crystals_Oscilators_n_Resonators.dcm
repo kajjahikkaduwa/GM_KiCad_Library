@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 654M20005C2T
+D XTAL OSC XO 200.0000MHZ HCMOS
+K Crystal 200mhz
+F https://www.ctscorp.com/wp-content/uploads/654C.pdf
+$ENDCMP
+#
 $CMP ABLS-8.000MHZ-B-4-T2
 D Storag e Temperatur e - 55C to + 125 C
 F https://4donline.ihs.com/images/VipMasterIC/IC/ABRC/ABRCS03441/ABRCS03441-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
