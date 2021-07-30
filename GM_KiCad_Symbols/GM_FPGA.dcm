@@ -10,4 +10,9 @@ D Zynq-7000 All Programmable SoC
 F https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf
 $ENDCMP
 #
+$CMP XC7Z020-2CLG484I_new
+D Seperated bank 500 and 501 Zynq-7000 All Programmable SoC
+F https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf
+$ENDCMP
+#
 #End Doc Library
