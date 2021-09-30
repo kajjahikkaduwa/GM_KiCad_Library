@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADR130AUJZ-R2
+D Analog Devices ADR130AUJZ-R2, Series Voltage Reference, 0.4965  0.5035 V, +/-0.7% 18 V max., 6-Pin TSOT
+F https://www.mouser.com/datasheet/2/609/ADR130-1503466.pdf
+$ENDCMP
+#
 $CMP LTC6655LNCHMS8-5#PBF
 D Series Voltage Reference IC  ±0.05%  8-MSOP ADI 0.25ppm N, L Drift Prec Refs
 F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6655-6655LN.pdf
