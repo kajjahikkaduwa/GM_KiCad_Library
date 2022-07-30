@@ -5,10 +5,6 @@ D microSD 1.10mm SMT push-pull memory card microSD 1.10mm SMT push-pull memory c
 F https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf
 $ENDCMP
 #
-$CMP 132134-15
-F https://s3-us-west-2.amazonaws.com/catsy.582/C132134-15.pdf
-$ENDCMP
-#
 $CMP 2137160001
 D USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Through Hole, Right Angle
 F https://www.molex.com/pdm_docs/sd/2137160001_sd.pdf
