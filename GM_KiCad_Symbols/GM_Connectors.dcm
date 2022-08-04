@@ -14,6 +14,12 @@ $CMP BoardEdge_of_HSEC8-140-01-L-PV-4-1
 F http://suddendocs.samtec.com/prints/hsec8-1xx-xx-x-pv-x-x-xx-footprint.pdf
 $ENDCMP
 #
+$CMP DF40C-100DS-0.4V(51)
+D 100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold
+K DF40C-100DS-0.4V(51)
+F https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DF40C-100DS-0.4V(51)
+$ENDCMP
+#
 $CMP HSEC8-140-01-L-PV-4-1
 F http://suddendocs.samtec.com/prints/hsec8-1xx-xx-x-pv-x-x-xx-footprint.pdf
 $ENDCMP
