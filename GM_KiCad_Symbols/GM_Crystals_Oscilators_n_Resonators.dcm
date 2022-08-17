@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 654M20005C2T
+$CMP 654C20005C2T
 D XTAL OSC XO 200.0000MHZ HCMOS
 K Crystal 200mhz
 F https://www.ctscorp.com/wp-content/uploads/654C.pdf
