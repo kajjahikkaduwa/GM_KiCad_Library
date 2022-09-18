@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FDB3502
+F https://www.mouser.com/datasheet/2/308/1/FDB3502_D-1806900.pdf
+$ENDCMP
+#
 $CMP MCH3481-TL-W
 D N-Channel 20V 2A (Ta) 800mW (Ta) Surface Mount  Power MOSFET
 F https://www.onsemi.com/pub/Collateral/MCH3481-D.PDF
